@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Authentification</string>
+    <string name="login">Entrer votre Login</string>
+    <string name="password">Entrer votre password</string>
+</resources>
